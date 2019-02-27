@@ -1,12 +1,13 @@
 # Batch-image-and-landmark-augmentation
 
 # Image and keypoint augmentor
+Use this for aumenting the paired images and landmarks.
 based on skimage and imgaug https://github.com/aleju/imgaug
 
 # Files!
 
-  - PrMain_single image.py: use it as an example of augmentation on an image.
-  - PrMain_single image.py: use it for batch processing.
+  - PrMain_single_image.py: use it as an example of augmentation on an image.
+  - PrMain_batch_images.py: use it for batch processing.
  
 # Easy for batch processing!
   - Set the source and destination folders

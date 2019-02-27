@@ -1,7 +1,6 @@
-# Batch-image-and-landmark-augmentation
 
 # Image and keypoint augmentor
-Use this for aumenting the paired images and landmarks.
+Use this for aumenting the images and corresponding landmarks.
 based on skimage and imgaug https://github.com/aleju/imgaug
 
 # Files!
